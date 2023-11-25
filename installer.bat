@@ -1,4 +1,5 @@
 @echo off
+title Mindustry Game Installer
 setlocal enabledelayedexpansion
 
 REM Pytanie o ścieżkę źródłową
