@@ -1,6 +1,7 @@
 @echo off
-title Mindustry Game Installer
-setlocal enabledelayedexpansion
+@title Mindustry Game Installer
+@color 0b
+@setlocal enabledelayedexpansion
 
 REM Pytanie o ścieżkę źródłową
 set "source=jre"
