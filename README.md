@@ -96,12 +96,16 @@ Contributions are welcome! If you have suggestions, improvements, or bug fixes, 
 
 ## Badges
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/github/license/VermiNew/MindustryExecutable.svg?style=flat-square)](LICENSE)
 [![Batch](https://img.shields.io/badge/Platform-Batch-blue.svg)](https://en.wikipedia.org/wiki/Batch_file)
 [![Java](https://img.shields.io/badge/Platform-Java-red.svg)](https://www.java.com/)
+[![Build Status](https://img.shields.io/travis/com/VermiNew/MindustryExecutable/master.svg?style=flat-square)](https://travis-ci.com/VermiNew/MindustryExecutable)
+[![Coverage Status](https://img.shields.io/codecov/c/github/VermiNew/MindustryExecutable/master.svg?style=flat-square)](https://codecov.io/gh/VermiNew/MindustryExecutable)
 [![Stable Release](https://img.shields.io/badge/Release-Stable-darkgreen.svg)](https://github.com/VermiNew/MindustryExecutable/releases/tag/stable)
 [![Contributor Friendly](https://img.shields.io/badge/Contributions-Welcome-darkgreen.svg)](https://github.com/VermiNew/MindustryExecutable/blob/main/CONTRIBUTING.md)
-[![GitHub Stars](https://img.shields.io/github/stars/VermiNew/MindustryExecutable.svg)](https://github.com/VermiNew/MindustryExecutable/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/VermiNew/MindustryExecutable.svg?style=flat-square)](https://github.com/VermiNew/MindustryExecutable/issues)
+[![GitHub Stars](https://img.shields.io/github/stars/VermiNew/MindustryExecutable.svg?style=social&label=Stars)](https://github.com/VermiNew/MindustryExecutable/stargazers)
+
 
 ## Dependencies
 
